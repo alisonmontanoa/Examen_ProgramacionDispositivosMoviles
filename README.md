@@ -1,1 +1,1 @@
-# Examen2daCompetencia-ProgramacionDispositivosMoviles
+# Examen-ProgramacionDispositivosMoviles
